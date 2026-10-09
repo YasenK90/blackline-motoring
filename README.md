@@ -24,4 +24,10 @@ Then open the local Vite URL.
 
 ## Note
 
-Demo photography is loaded from Unsplash/Pexels URLs for the portfolio prototype. Replace image URLs with licensed/client assets before production use.
+Demo photography is loaded from Unsplash, Pexels, Flickr, and Wikimedia Commons URLs for the portfolio prototype. Replace image URLs with licensed/client assets before production use.
+
+### Photo credits
+
+- "Porsche 911 Turbo S (991)" by Pandamera1 — [CC BY 2.0](https://www.flickr.com/photos/128326674@N06/15129743743)
+- "BMW M4 CSL IMG 7638" by Alexander-93 — [CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=133099926)
+- "Mercedes AMG GT 63 S" by crash71100 — [CC0](https://www.flickr.com/photos/152930510@N02/51606061198)
