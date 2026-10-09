@@ -24,4 +24,4 @@ Then open the local Vite URL.
 
 ## Note
 
-Demo photography is loaded from Unsplash URLs for the portfolio prototype. Replace image URLs with licensed/client assets before production use.
+Demo photography is loaded from Unsplash/Pexels URLs for the portfolio prototype. Replace image URLs with licensed/client assets before production use.

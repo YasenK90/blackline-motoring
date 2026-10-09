@@ -58,7 +58,7 @@ const cars = [
     year: '2024',
     price: '$319,000',
     category: 'Collector',
-    image: 'https://images.unsplash.com/photo-1610768764270-790fbec18178?auto=format&fit=crop&w=1800&q=88',
+    image: 'https://images.pexels.com/photos/10712932/pexels-photo-10712932.jpeg?auto=compress&cs=tinysrgb&w=1800',
     accent: '04',
     engine: '4.0L Flat-6 Naturally Aspirated',
     power: 518,
